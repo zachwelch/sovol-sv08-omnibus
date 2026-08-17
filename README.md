@@ -14,7 +14,7 @@ that project, see the
 The [Sovol website](https://sovol3d.com/) provides the official
 specifications and support materials.
 
-## SVO8
+## SV08
 
 * [Sovol SV08](https://www.sovol3d.com/products/sovol-sv08-3d-printer)
 * [Firmware and Manuals](https://www.sovol3d.com/pages/download)
@@ -28,7 +28,8 @@ make any mods to the hardware or software:
 
 * [Sovol SV08 Wiki](https://wiki.sovol3d.com/en/SV08)
 * [Sovol SV08 Forum](https://forum.sovol3d.com/c/everything-about-sv08/54)
-* [Official Sovol Discord server](https://discord.gg/SPSp4Dg992)
+* [Sovol Discord server](https://discord.gg/SPSp4Dg992)
+* [Support Videos](https://www.youtube.com/@sovol3dsupport/videos)
 
 # Resources
 
@@ -45,6 +46,12 @@ These links offer advice for configuring, extending, tweaking, and upgrading you
 * [https://github.com/ss1gohan13/SV08-Replacement-Macros](https://github.com/ss1gohan13/SV08-Replacement-Macros)
 * [https://github.com/adamrodgers/sv08](https://github.com/adamrodgers/sv08)
 * [https://github.com/eric-s-raymond/sovol-SV08-from-scratch](https://github.com/eric-s-raymond/sovol-SV08-from-scratch)
+* [https://github.com/mon5termatt/SV08-Community](https://github.com/mon5termatt/SV08-Community)
+* [https://github.com/adepssimius/everything-sovol-sv08](https://github.com/adepssimius/everything-sovol-sv08)
+* [https://github.com/jfestrada/sovol-sv08-macros](https://github.com/jfestrada/sovol-sv08-macros)
+* [https://github.com/GustavPinho/sv08-toolhead-repair](https://github.com/GustavPinho/sv08-toolhead-repair)
+
+* [SV08 Tool Changer][https://teachingtechyt.github.io/sv08toolchanger.html]
 
 ## Modifications
 
@@ -129,3 +136,8 @@ Join the [Sovol 3D Printers](https://discord.gg/53vPnFMCTw) Discord server.
 
 File issues or PRs, particularly after discussing your request or changes
 on IRC or Discord.
+
+### Facebook
+
+There appears to exist one or more SV08 user groups on this platform, but
+the author cannot see over the walls into that particular garden.
