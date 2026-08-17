@@ -1,7 +1,11 @@
 # Armbian on Sovol-SV08
 
-The upstream Armbian project contains a board definition for the SV-08.
-This document explains how to build and use the latest image.
+The upstream Armbian project contains a 
+[board definition for the SV-08](https://github.com/armbian/build/blob/main/config/boards/sovol-sv08.csc)
+and produces both [Ubuntu and Debian images](https://armbian.com/boards/sovol-sv08) for it.
+
+If you do not want to simply grab one of the pre-built images, this document
+describes how to build and use the latest image.
 
 ## Build Armbian Image
 
